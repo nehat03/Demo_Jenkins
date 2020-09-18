@@ -19,6 +19,16 @@
         </connection>
       </connections>
     </connectionClass>
+    <connectionClass name="sf">
+      <connections>
+        <connection id="6e6604b9-f908-4754-a05d-4086d663d6e0" name="Adm">
+          <summary/>
+          <connectionUrls>
+            <connectionUrl secureStorageNodeId="8f253e37-2658-4a36-ad50-9ab1d795f93b" url="sf:user=nehat2705@gmail.com;password={password};environment=PROD_DEV;lightningMode=true"/>
+          </connectionUrls>
+        </connection>
+      </connections>
+    </connectionClass>
   </connectionClasses>
   <browserConfigurations>
     <browserConfiguration adjustBrowserWidthForChromeIde="true" browserHeight="0" browserWidth="0" name="Full Screen">

@@ -33,7 +33,7 @@
 				invokeTestRunMonitor="true"
 				>
 		
-			<fileset dir="../tests"><include name="Test Case 2.testcase"/></fileset>
+			<fileset dir="../tests"><include name="Test Case 3.testcase"/></fileset>
 
 		</Run-Test-Case>
 
