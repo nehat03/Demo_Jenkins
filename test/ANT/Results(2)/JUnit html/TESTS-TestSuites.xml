@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite failures="1" hostname="Dell-nehatiwari" id="0" name="test/tests" package="" skipped="0" tests="1" time="4.057" timestamp="Tue Jul 14 15:43:36 IST 2020">
+	    <properties>
+		      <property name="excludeCallableTestCases" value="true" />
+
+		      <property name="testEnvironment" value="" />
+
+		      <property name="pluginOutputLevel" value="WARNING" />
+
+		      <property name="projectPath" value=".." />
+
+		      <property name="salesforceMetadataCache" value="Reuse" />
+
+		      <property name="resultsPathDisposition" value="Increment" />
+
+		      <property name="testOutputLevel" value="WARNING" />
+
+		      <property name="webBrowserType" value="Google Chrome" />
+
+		      <property name="resultsPath" value="../ANT/Results" />
+
+		      <property name="webBrowserConfiguration" value="Full Screen" />
+
+		      <property name="projectCachePath" value="C:\Users\neha.tiwari\git\GitBhubAction6\test\ANT\..\.provarCaches" />
+
+	    </properties>
+
+	    <testcase classname="tests/Test Case 1.testcase" name="Test Case 1.testcase" time="2.377">
+		      <failure message="Execution failed"><![CDATA[Failed to create ChromeDriver from the Test Project's lib folder. Please follow versioning guidelines using this link http://chromedriver.chromium.org/downloads/version-selection]]></failure>
+
+	    </testcase>
+
+  </testsuite>
+</testsuites>

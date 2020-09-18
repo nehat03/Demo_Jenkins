@@ -1,0 +1,4 @@
+[5080:9480:0714/154636.344:WARNING:chrome_command_line_pref_store.cc(118)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[5080:9480:0714/154636.347:WARNING:chrome_command_line_pref_store.cc(118)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[5080:9480:0714/154636.414:WARNING:chrome_command_line_pref_store.cc(118)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[5080:9480:0714/154643.798:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
